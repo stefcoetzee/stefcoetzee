@@ -1,4 +1,4 @@
-👋 Hi, I’m @stefcoetzee <br>
+👋 Hi, I’m [@stefcoetzee](https://github.com/stefcoetzee) <br>
 👀 Interested in Ruby on Rails, Tailwind CSS, and JavaScript (Stimulus, Vue, Svelte, and React—in that order)<br>
 🌱 Currently learning Hotwire (Rails) and vanilla JavaScript<br>
 💞️ Keen to collaborate on side projects<br>
