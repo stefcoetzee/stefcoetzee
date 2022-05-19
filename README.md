@@ -1,5 +1,5 @@
 👋 Hi, I’m [@stefcoetzee](https://github.com/stefcoetzee) <br>
-👀 Interested in functional programming (Clojure), web development (started with Rails), and sustainable development<br>
+👀 Interested in functional programming (Clojure), web development (started with Rails), and technological progress<br>
 🌱 Currently learning Clojure(Script)<br>
 🤝 Keen to collaborate on side projects<br>
 📫 Reach me on Twitter [@stef_coetzee](https://twitter.com/stef_coetzee)<br>
