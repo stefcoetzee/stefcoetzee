@@ -1,6 +1,6 @@
 👋 Hi, I’m [@stefcoetzee](https://github.com/stefcoetzee) <br>
 👀 Interested in accelerating industrial progress and functional programming (Clojure in particular)<br>
-📫 Reach me on X [@stef_coetzee](https://twitter.com/stef_coetzee)<br>
+📫 Reach me on X [@stefcoetzee](https://x.com/stefcoetzee)<br>
 
 <!---
 stefcoetzee/stefcoetzee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
